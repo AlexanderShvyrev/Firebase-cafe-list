@@ -1,4 +1,1 @@
-# firebase-firestore-playlist
-All course files for the Firebase Firestore playlist on The Net Ninja YouTube channel. 
-
-Make sure you select the correct branch to see the files :)
+Learning Firebase and firestore. This is fundamentals on installing and operating with the data coming from firestore. 
